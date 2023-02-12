@@ -1,0 +1,47 @@
+body{
+    background-color: #2c4250;
+}
+
+.header-parent {
+   position:relative ;
+   margin-left:20px;
+}
+#heading {
+    font-size:25px;
+    margin-bottom: 5px;
+    color:white
+}
+
+.abc-products{
+    position:relative;
+    left:0px;
+    height:40px;
+
+}
+
+.highRadius{
+    position:relative;
+    left:27%;
+    height:40px;
+}
+
+.button-header{
+    margin-top:10px;
+    margin-bottom: 20px;
+    background-color: #273d4a;
+    padding:20px;
+}
+
+#footer-id{
+    position:relative;
+}
+
+#footer-id p{
+    position: absolute;
+    left:38%;
+    color:aliceblue;
+}
+
+#footer-id p a{
+    color:blue;
+}
